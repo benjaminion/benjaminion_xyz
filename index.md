@@ -2,27 +2,27 @@
 
 ## The Main Things
 
-  - I am founder and product owner for the [Teku](https://github.com/Consensys/teku) Ethereum consensus client at [Consensys](https://consensys.net/). On joining Consensys in October 2017 I spent the first two years building the fabulous PegaSys R&D team before going on to bring Teku to life.
-  - I am writing the definitive technical book on Ethereum's proof of stake protocol. It's called [Upgrading Ethereum](https://eth2book.info/), or sometimes just "The Eth2 Book". At last count, around 135,000 words of my own, and 369 pages in the PDF version.
-  - I wrote 100 fortnightly editions of ["What's new in Eth2?"](https://eth2.news) between October 2018 and August 2022 (just before The Merge).
+  - I am founder and product owner for the [Teku](https://github.com/Consensys/teku) Ethereum consensus client at [Consensys](https://consensys.net/). On joining Consensys in October 2017 I spent the first two years building the fabulous PegaSys R&D team before moving over to the product side to bring Teku to life.
+  - I am writing the definitive technical book on Ethereum's proof of stake protocol. It's called [Upgrading Ethereum](https://eth2book.info/), or sometimes just "The Eth2 Book". At last count, around 135,000 words of my own, and 367 pages in the [PDF version](https://eth2book.info/latest/book.pdf).
+  - I wrote 100 fortnightly editions of ["What's new in Eth2?"](https://eth2.news) in the four year run-up to The Merge.
   - My [greatest Tweet](https://twitter.com/benjaminion_xyz/status/1446516207159582743) (so far). My [least deserved Tweet](https://twitter.com/josephdelong/status/1708822183319855158).
 
 ## Other writing
 
   - [The Eth2 Annotated Specification](https://benjaminion.xyz/eth2-annotated-spec/phase0/beacon-chain/). Vitalik [likes it](https://twitter.com/VitalikButerin/status/1287734918823456781) 😀 (this was the precursor to [The Book](https://eth2book.info/latest/)).
-  - Explainers
+  - Explainers:
     - [BLS12-381 for the Rest of Us](https://hackmd.io/@benjaminion/bls12-381), a (moderately) accessible description of elliptic curve construction, focusing on BLS12-381. There's a lot in there.
       - A generous [endorsement](https://twitter.com/MihailoBjelic/status/1215269758112817153) from Mihailo Bjelic, and a reference in footnote 1 of [this paper](https://eprint.iacr.org/2021/339.pdf) by no less than Jens Groth 🎉
     - An explainer and toy example of the [data recovery](https://hackmd.io/@benjaminion/data_recovery) scheme we plan to use in Eth2.
     - Other things have mostly been folded into [The Book](https://eth2book.info/latest/) now.
-  - Ethereum 2.0 Consensys Blog Posts
-    - State of Ethereum Protocol #5 [How 30+ ETH 2.0 Devs Locked Themselves in to Achieve Interoperability](https://medium.com/consensys-media/how-30-eth-2-0-devs-locked-themselves-in-to-achieve-interoperability-175e4a807d92). (25 September 2019)
-    - State of Ethereum Protocol #4 [Welcome to the Bazaar](https://medium.com/consensys-media/ethereum-2-0s-latest-strides-forward-13f63652e57d). (26 July 2019)
-    - State of Ethereum Protocol #3 [Exploring Ethereum 2.0 Design Goals](https://medium.com/consensys-media/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01). (17 January 2019)
-    - State of Ethereum Protocol #2 [The Beacon Chain](https://medium.com/consensys-media/state-of-ethereum-protocol-2-the-beacon-chain-c6b6a9a69129). (26 October 2018)
-    - State of Ethereum Protocol #1 [Ethereum 2.0 introduction](https://medium.com/consensys-media/state-of-ethereum-protocol-1-d3211dd0f6). (28 August 2018)
-  - [eth2.info](https://eth2.info): curated resources for learning Ethereum 2.0 [out of date and unmaintained; mostly superseded by [The Book](https://eth2book.info/latest/)]
-  - Articles
+  - Ethereum 2.0 Consensys Blog Posts:
+    - State of Ethereum Protocol #5 [How 30+ ETH 2.0 Devs Locked Themselves in to Achieve Interoperability](https://medium.com/consensys-media/how-30-eth-2-0-devs-locked-themselves-in-to-achieve-interoperability-175e4a807d92) (September 2019).
+    - State of Ethereum Protocol #4 [Welcome to the Bazaar](https://medium.com/consensys-media/ethereum-2-0s-latest-strides-forward-13f63652e57d) (July 2019).
+      - State of Ethereum Protocol #3 [Exploring Ethereum 2.0 Design Goals](https://medium.com/consensys-media/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01) (January 2019)
+    - State of Ethereum Protocol #2 [The Beacon Chain](https://medium.com/consensys-media/state-of-ethereum-protocol-2-the-beacon-chain-c6b6a9a69129) (October 2018).
+    - State of Ethereum Protocol #1 [Ethereum 2.0 introduction](https://medium.com/consensys-media/state-of-ethereum-protocol-1-d3211dd0f6) (August 2018).
+  - [eth2.info](https://eth2.info): curated resources for learning Ethereum 2.0. (This is out of date and unmaintained; mostly superseded by [The Book](https://eth2book.info/latest/).)
+  - Articles:
     - [The Block Op-Ed](https://www.theblockcrypto.com/post/90818/ethereum-2-eth2-whats-next-2021) (January 2021) on the Eth2 roadmap for 2021.
     - [Coindesk Op-Ed](https://www.coindesk.com/time-to-launch-ethereum-2-beacon-chain) (October 2020) on the upcoming Beacon Chain launch.
     - [Coindesk Op-Ed](https://www.coindesk.com/ethereums-bazaar-development-model-will-pay-off-in-2020) (December 2019) on Eth2's distributed development model.
@@ -30,8 +30,9 @@
 ## Presentations
 
   - Video:
-    - [Ethereum Engineering Group](https://www.youtube.com/watch?v=JQDUvqv60qw) Unpacking EIP-4844 (January, 2023).
-    - [A Brief History of Ethereum's future](https://www.youtube.com/watch?v=FlFKZR_ofSo) with the Ethereum Cat Herders. (July 2021)
+    - [Ethereum Engineering Group](https://www.youtube.com/watch?v=JQDUvqv60qw) Scaling Ethereum with EIP-4844 (January 2023). I've since fixed up some of the wonky maths in [the slides](https://docs.google.com/presentation/d/1p5Q32odNNhK1d8fAXc7O4u7CWiUtYSBuGn9IiemcRa8/edit).
+    - I enjoyed moderating a somewhat spicy panel discussion on [Client Diversity](https://www.youtube.com/watch?v=ZEvn4liYlJA) for EthGlobal (October 2021).
+    - [A Brief History of Ethereum's future](https://www.youtube.com/watch?v=FlFKZR_ofSo) with the Ethereum Cat Herders (July 2021).
   - Slide decks:
     - Internal PegaSys/Consensys [presentation slides on Ethereum 2.0](https://docs.google.com/presentation/d/171H_3xfxAzRUKAn-XPWdgzHjvD-nIVlSHzvg1ix5P0s/edit?usp=sharing) (5 November 2018).
     - Ethereum London meetup [presentation slides on Ethereum 2.0](https://docs.google.com/presentation/d/1LTOqrIIdu8DtlvXFXsFeIbNqCL6k45xXPhrlAFlj7Pg/edit?usp=sharing) (17 October 2018).
