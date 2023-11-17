@@ -18,7 +18,7 @@
   - Ethereum 2.0 Consensys Blog Posts:
     - State of Ethereum Protocol #5 [How 30+ ETH 2.0 Devs Locked Themselves in to Achieve Interoperability](https://medium.com/consensys-media/how-30-eth-2-0-devs-locked-themselves-in-to-achieve-interoperability-175e4a807d92) (September 2019).
     - State of Ethereum Protocol #4 [Welcome to the Bazaar](https://medium.com/consensys-media/ethereum-2-0s-latest-strides-forward-13f63652e57d) (July 2019).
-      - State of Ethereum Protocol #3 [Exploring Ethereum 2.0 Design Goals](https://medium.com/consensys-media/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01) (January 2019)
+    - State of Ethereum Protocol #3 [Exploring Ethereum 2.0 Design Goals](https://medium.com/consensys-media/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01) (January 2019)
     - State of Ethereum Protocol #2 [The Beacon Chain](https://medium.com/consensys-media/state-of-ethereum-protocol-2-the-beacon-chain-c6b6a9a69129) (October 2018).
     - State of Ethereum Protocol #1 [Ethereum 2.0 introduction](https://medium.com/consensys-media/state-of-ethereum-protocol-1-d3211dd0f6) (August 2018).
   - [eth2.info](https://eth2.info): curated resources for learning Ethereum 2.0. (This is out of date and unmaintained; mostly superseded by [The Book](https://eth2book.info/latest/).)
