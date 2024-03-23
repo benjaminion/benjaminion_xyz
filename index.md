@@ -2,7 +2,8 @@
 
 ## The Main Things
 
-  - I am founder and product owner for the [Teku](https://github.com/Consensys/teku) Ethereum consensus client at [Consensys](https://consensys.net/). On joining Consensys in October 2017 I spent the first two years building the fabulous PegaSys R&D team before moving over to the product side to bring Teku to life.
+  - Since February 2024 I have been at [OP Labs](https://www.oplabs.co/), scaling the world computer.
+  - I am founder and erstwhile product owner for the [Teku](https://github.com/Consensys/teku) Ethereum consensus client at [Consensys](https://consensys.net/). I joined Consensys in October 2017, spending the first two years building the fabulous PegaSys R&D team before moving over to the product side to bring Teku to life.
   - I am writing the definitive technical book on Ethereum's proof of stake protocol. It's called [Upgrading Ethereum](https://eth2book.info/), or sometimes just "The Eth2 Book". At last count, around 135,000 words of my own, and 367 pages in the [PDF version](https://eth2book.info/latest/book.pdf).
   - I wrote 100 fortnightly editions of ["What's new in Eth2?"](https://eth2.news) in the four year run-up to The Merge.
   - My [greatest Tweet](https://twitter.com/benjaminion_xyz/status/1446516207159582743) (so far). My [least deserved Tweet](https://twitter.com/josephdelong/status/1708822183319855158).
@@ -12,7 +13,7 @@
   - [The Eth2 Annotated Specification](https://benjaminion.xyz/eth2-annotated-spec/phase0/beacon-chain/). Vitalik [likes it](https://twitter.com/VitalikButerin/status/1287734918823456781) 😀 (this was the precursor to [The Book](https://eth2book.info/latest/)).
   - Explainers:
     - [BLS12-381 for the Rest of Us](https://hackmd.io/@benjaminion/bls12-381), a (moderately) accessible description of elliptic curve construction, focusing on BLS12-381. There's a lot in there.
-      - A generous [endorsement](https://twitter.com/MihailoBjelic/status/1215269758112817153) from Mihailo Bjelic, and a reference in footnote 1 of [this paper](https://eprint.iacr.org/2021/339.pdf) by no less than Jens Groth 🎉
+      - (Generous endorsements from [Mihailo Bjelic](https://twitter.com/MihailoBjelic/status/1215269758112817153) and [Alex Stokes](https://x.com/ralexstokes/status/1767679340307702110), and a reference in footnote 1 of [this paper](https://eprint.iacr.org/2021/339.pdf) by no less than Jens Groth 🎉)
     - An explainer and toy example of the [data recovery](https://hackmd.io/@benjaminion/data_recovery) scheme we plan to use in Eth2.
     - Other things have mostly been folded into [The Book](https://eth2book.info/latest/) now.
   - Ethereum 2.0 Consensys Blog Posts:
@@ -61,6 +62,7 @@ Although I write quite a lot of code for my own use, I am not fundamentally a "d
 
   - I co-hosted Coindesk's weekly [Mapping Out Eth2.0](https://www.coindesk.com/tag/mapping-out-eth-2-0/1/) podcast with Christine Kim for about twenty episodes from March to August, 2021.
   - Others:
+    - [Infinite Jungle](https://www.galaxy.com/insights/podcasts/infinite-jungle/debating-ethereum-s-identity-crisis-with-ben-edgington/), reunited with Christine for an episode (February 2024).
     - [Web3 Builders](https://www.youtube.com/watch?v=WcGpHXTepcA) with Evan Van Ness and Will Foxley, mainly about holding Lido accountable to its decentralisation commitment (October 2023).
     - [Strange Water](https://strangewater.xyz/episode/ba79c90f-b9b0-473b-9ff3-3bcb1ea05250) with Rex (September, 2023)
     - [The DeCent People](https://www.decential.io/podcasts/the-decent-people-podcast-with-ben-edgington-consensys-teku-product-lead) with Matt Leising (November, 2022)
@@ -109,7 +111,7 @@ Having done a fair few press interviews over the years I was privileged to end u
     - [Set up a local Raiden test network.](https://github.com/Consensys/Local-Raiden)
     - [Ethereum Stack Exchange activity](https://ethereum.stackexchange.com/users/14476/benjaminion).
     - [Reddit /r/ethereum activity](https://www.reddit.com/user/benjaminion/).
-    - [Notes on running a Parity node on a QNAP NAS box](https://github.com/benjaminion/eth-parity-qnap/wiki) (old - 2016 vintage - but gold).
+    - [Notes on running a Parity node on a QNAP NAS box](https://github.com/benjaminion/eth-parity-qnap/wiki) (old &mdash; 2016 vintage &mdash; but gold).
 
 ## Other stuff
 
