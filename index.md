@@ -10,6 +10,7 @@
 
 ## Other writing
 
+  - A little of my [crypto origin story](https://consensys.io/blog/devs-behind-the-merge-ben-edgington-teku-product-lead).
   - [The Eth2 Annotated Specification](https://benjaminion.xyz/eth2-annotated-spec/phase0/beacon-chain/). Vitalik [likes it](https://twitter.com/VitalikButerin/status/1287734918823456781) 😀 (this was the precursor to [The Book](https://eth2book.info/latest/)).
   - Explainers:
     - [BLS12-381 for the Rest of Us](https://hackmd.io/@benjaminion/bls12-381), a (moderately) accessible description of elliptic curve construction, focusing on BLS12-381. There's a lot in there.
