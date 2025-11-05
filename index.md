@@ -2,11 +2,11 @@
 
 ## The Main Things
 
-  - Since February 2024 I have been at [OP Labs](https://www.oplabs.co/), scaling the world computer.
-  - I am founder and erstwhile product owner for the [Teku](https://github.com/Consensys/teku) Ethereum consensus client at [Consensys](https://consensys.net/). I joined Consensys in October 2017, spending the first two years building the fabulous PegaSys R&D team before moving over to the product side to bring Teku to life.
-  - I am writing the definitive technical book on Ethereum's proof of stake protocol. It's called [Upgrading Ethereum](https://eth2book.info/), or sometimes just "The Eth2 Book". At last count, around 135,000 words of my own, and 367 pages in the [PDF version](https://eth2book.info/latest/book.pdf).
+  - I am (still, slowly) writing the definitive technical book on Ethereum's proof of stake protocol. It's called [Upgrading Ethereum](https://eth2book.info/), or sometimes just "The Eth2 Book". At last count, around 143,000 words of my own, and 400 pages in the [PDF version](https://eth2book.info/latest/book.pdf).
+  - I worked on scaling the world computer with [OP Labs](https://www.oplabs.co/) until February 2025, mostly decentralising development of the OP Stack.
+  - I am founder and erstwhile product owner for the [Teku](https://github.com/Consensys/teku) Ethereum consensus client at [Consensys](https://consensys.net/). I joined Consensys in October 2017, spending the first two years building and leading the fabulous PegaSys R&D team before moving over to the product side to bring Teku to life.
   - I wrote 100 fortnightly editions of ["What's new in Eth2?"](https://eth2.news) in the four year run-up to The Merge.
-  - My [greatest Tweet](https://twitter.com/benjaminion_xyz/status/1446516207159582743) (so far). My [least deserved Tweet](https://twitter.com/josephdelong/status/1708822183319855158).
+  - My [greatest Tweet](https://twitter.com/benjaminion_xyz/status/1446516207159582743) (so far!). My [least deserved Tweet](https://twitter.com/josephdelong/status/1708822183319855158).
 
 ## Other writing
 
@@ -23,7 +23,7 @@
     - State of Ethereum Protocol #3 [Exploring Ethereum 2.0 Design Goals](https://medium.com/consensys-media/exploring-the-ethereum-2-0-design-goals-fd2d901b4c01) (January 2019)
     - State of Ethereum Protocol #2 [The Beacon Chain](https://medium.com/consensys-media/state-of-ethereum-protocol-2-the-beacon-chain-c6b6a9a69129) (October 2018).
     - State of Ethereum Protocol #1 [Ethereum 2.0 introduction](https://medium.com/consensys-media/state-of-ethereum-protocol-1-d3211dd0f6) (August 2018).
-  - [eth2.info](https://eth2.info): curated resources for learning Ethereum 2.0. (This is out of date and unmaintained; mostly superseded by [The Book](https://eth2book.info/latest/).)
+  - [eth2.info](https://eth2.info): curated resources for learning Ethereum 2.0. (This is out of date and no longer curated; mostly superseded by [The Book](https://eth2book.info/latest/).)
   - Articles:
     - [The Block Op-Ed](https://www.theblockcrypto.com/post/90818/ethereum-2-eth2-whats-next-2021) (January 2021) on the Eth2 roadmap for 2021.
     - [Coindesk Op-Ed](https://www.coindesk.com/time-to-launch-ethereum-2-beacon-chain) (October 2020) on the upcoming Beacon Chain launch.
