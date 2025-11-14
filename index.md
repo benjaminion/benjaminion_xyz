@@ -5,7 +5,7 @@
   - I am (still, slowly) writing the definitive technical book on Ethereum's proof of stake protocol. It's called [Upgrading Ethereum](https://eth2book.info/), or sometimes just "The Eth2 Book". At last count, around 143,000 words of my own, and 400 pages in the [PDF version](https://eth2book.info/latest/book.pdf).
   - I am founder and erstwhile product owner for the [Teku](https://github.com/Consensys/teku) Ethereum consensus client at [Consensys](https://consensys.net/). I joined Consensys in October 2017, spending the first two years building and leading the fabulous PegaSys R&D team before moving over to the product side to bring Teku to life.
   - I worked on scaling the world computer with [OP Labs](https://www.oplabs.co/) until February 2025, mostly decentralising development of the OP Stack.
-  - I wrote 100 fortnightly editions of ["What's new in Eth2?"](https://eth2.news) in the four year run-up to The Merge.
+  - I wrote 100 fortnightly editions of ["What's new in Eth2?"](https://eth2.news) in the four year run-up to The Merge (rated "funny af" by experts<sup>[1](https://x.com/iamlizendary/status/1451377723809669120),[2](https://x.com/dapplion/status/1453608579341094913)</sup>).
   - My [greatest Tweet](https://twitter.com/benjaminion_xyz/status/1446516207159582743) (so far!). My [least deserved Tweet](https://twitter.com/josephdelong/status/1708822183319855158).
 
 <div id="endorsements">
