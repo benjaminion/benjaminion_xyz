@@ -32,7 +32,7 @@
 </div>
 </div>
 
-## Other writing
+## Writings
 
   - A little of my [crypto origin story](https://consensys.io/blog/devs-behind-the-merge-ben-edgington-teku-product-lead).
   - [The Eth2 Annotated Specification](https://benjaminion.xyz/eth2-annotated-spec/phase0/beacon-chain/). Vitalik [likes it](https://twitter.com/VitalikButerin/status/1287734918823456781) 😀 (this was the precursor to [The Book](https://eth2book.info/latest/)).
@@ -56,14 +56,20 @@
 ## Presentations
 
   - Video:
+    - A deep dive into [Ethereum's fork choice](https://www.youtube.com/watch?v=cOivWPEBEMo&list=PLvu3JfoGPg5nt45MNYEuExw17pbH9MB3p&index=16) for the Ethereum Protocol Fellowship study group (March 2025). [Slides](https://docs.google.com/presentation/d/1mSn8JUfY88HvcCauLBkKRuy3f6YFlV9VcJptav0Ef24/edit?usp=drive_link).
     - [Ethereum Engineering Group](https://www.youtube.com/watch?v=JQDUvqv60qw) Scaling Ethereum with EIP-4844 (January 2023). I've since fixed up some of the wonky maths in [the slides](https://docs.google.com/presentation/d/1p5Q32odNNhK1d8fAXc7O4u7CWiUtYSBuGn9IiemcRa8/edit).
     - I enjoyed moderating a somewhat spicy panel discussion on [Client Diversity](https://www.youtube.com/watch?v=ZEvn4liYlJA) for EthGlobal (October 2021).
     - [A Brief History of Ethereum's future](https://www.youtube.com/watch?v=FlFKZR_ofSo) with the Ethereum Cat Herders (July 2021).
-  - Slide decks:
+  - Slides only:
     - Internal PegaSys/Consensys [presentation slides on Ethereum 2.0](https://docs.google.com/presentation/d/171H_3xfxAzRUKAn-XPWdgzHjvD-nIVlSHzvg1ix5P0s/edit?usp=sharing) (5 November 2018).
     - Ethereum London meetup [presentation slides on Ethereum 2.0](https://docs.google.com/presentation/d/1LTOqrIIdu8DtlvXFXsFeIbNqCL6k45xXPhrlAFlj7Pg/edit?usp=sharing) (17 October 2018).
     - Ethereum Paris meetup [presentation slides on Ethereum 2.0](https://docs.google.com/presentation/d/1iJtuO8tBxVn_oKJAh_6TUtS6SzEWVdbr-7D-guEKGtQ/edit?usp=sharing) (9 October 2018).
     - A path to Ethereum 2.0 [presentation slides](https://docs.google.com/presentation/d/1VY997VIsbLdjePiLh4fAF0t-JKlcMJk4A1oJJ_oNqns/edit#slide=id.p) (6 July 2018).
+
+## Doing my bit
+
+  - I was glad to serve as a [tech reviewer](https://masteringethereum.xyz/preface.html#contributions) for the 2nd Edition of the [Mastering Ethereum](https://masteringethereum.xyz/) book. It's terrific to see this updated after so long - much has changed.
+  - I was one of [the seven](https://x.com/post_polar_/status/2000831399373234243) Ethereum core dev interviewees for this paper: Dylan-Ennis, P., & Brody, A. (2025). [Tending the infinite garden: organizational culture in the Ethereum ecosystem](https://doi.org/10.1080/17530350.2025.2558576). Journal of Cultural Economy, 1–16.
 
 ## Code
 
