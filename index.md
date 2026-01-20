@@ -149,7 +149,8 @@ Having done a fair few press interviews over the years I was privileged to end u
 
   - [POAPs](https://app.poap.xyz/scan/benjaminion.eth), and [GitPOAPs](https://www.gitpoap.io/p/0xd262d146e869915444d0f34ecdaabab5ab43007e).
   - [Twitter/X](https://twitter.com/benjaminion_xyz)
-  - [LinkedIn](https://www.linkedin.com/in/benedgington) - lol 😁
+  - [LinkedIn](https://www.linkedin.com/in/benedgington)
+  - I have a bit-part in [Faisal's book](https://www.goodreads.com/book/show/62228436-the-billionaire-s-folly) under a pseudonym - I wonder if you can find me 😂
 
 ---
 
