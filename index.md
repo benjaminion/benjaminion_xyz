@@ -2,9 +2,15 @@
 
 ## The Main Things
 
-  - Since January 2026 I have been working with the [Ethereum Foundation](https://ethereum.org/foundation/), helping to get fast finality delivered on Ethereum's consensus layer.
-  - I am (still, slowly) writing the definitive technical book on Ethereum's proof of stake protocol. It's called [Upgrading Ethereum](https://eth2book.info/), or sometimes just "The Eth2 Book". At last count, around 143,000 words of my own, and 400 pages in the [PDF version](https://eth2book.info/latest/book.pdf).
-  - I am founder and erstwhile product owner for the [Teku](https://github.com/Consensys/teku) Ethereum consensus client at [Consensys](https://consensys.net/). I joined Consensys in October 2017, spending the first two years building and leading the fabulous PegaSys R&D team before moving over to the product side to bring Teku to life.
+Currently, I am
+
+  - working with the [Ethereum Foundation](https://ethereum.org/foundation/), helping to get fast finality delivered on Ethereum's consensus layer, and
+  - the (newly minted) moderator of Ethereum's All Core Devs (Consensus) call (ACDC).
+
+Previously,
+
+  - I failed to finish the definitive technical book on Ethereum's proof of stake protocol. It's called [Upgrading Ethereum](https://eth2book.info/), or sometimes just "The Eth2 Book". At last count, around 143,000 words of my own, and 400 pages in the [PDF version](https://eth2book.info/latest/book.pdf).
+  - I was founder and product owner for the [Teku](https://github.com/Consensys/teku) Ethereum consensus client at [Consensys](https://consensys.net/). I joined Consensys in October 2017, spending the first two years building and leading the fabulous PegaSys R&D team before moving over to the product side to bring Teku to life.
   - I worked on scaling the world computer with [OP Labs](https://www.oplabs.co/) until February 2025, mostly decentralising development of the OP Stack.
   - I wrote 100 fortnightly editions of ["What's new in Eth2?"](https://eth2.news) in the four year run-up to The Merge (rated "funny af" by experts<sup>[1](https://x.com/iamlizendary/status/1451377723809669120),[2](https://x.com/dapplion/status/1453608579341094913)</sup>).
   - My [greatest Tweet](https://twitter.com/benjaminion_xyz/status/1446516207159582743) (so far!). My [least deserved Tweet](https://twitter.com/josephdelong/status/1708822183319855158).
@@ -35,6 +41,8 @@
 
 ## Fast Finality
 
+  - [Draft EIP for decoupled consensus](https://github.com/ethereum/EIPs/pull/12566) - EIP-8453
+  - [Fast Finality](https://christinedkim.substack.com/p/acde-248) podcast/video interview with Christine Kim (October, 2026)
   - [Upgrading Finality - Edition 2](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-2) - What the Ecosystem Told Us (July, 2026).
     - The (lengthy) [research report](https://consensus.ethereum.foundation/articles/stakeholder-research) behind that post.
   - [Upgrading Finality - Edition 1](https://consensus.ethereum.foundation/blog/upgrading-finality-edition-1) - Decoupling Consensus (May, 2026).
